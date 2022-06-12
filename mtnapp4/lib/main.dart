@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:mtnapp4/splash_screen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
-void main() async {
+Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(const MyApp());
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'InnoTekSo',
       theme: ThemeData(
-        primarySwatch: Colors.purple,
+        primarySwatch: Colors.blue,
       ),
       home: const SplashScreen(),
     );
