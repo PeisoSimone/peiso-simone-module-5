@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082326947540",
+    "project_id": "mtnapp5",
+    "storage_bucket": "mtnapp5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082326947540:android:2a9be1c7c6e86b9ff98d41",
+        "android_client_info": {
+          "package_name": "com.example.mtnapp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082326947540-vch51actfccunvij9bknku3646vo13h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHOmusSC_7sWTviJd20L9f9fvmn3oFaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082326947540-vch51actfccunvij9bknku3646vo13h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
